@@ -1,0 +1,83 @@
+{
+ "desktop": {
+  "scrollW": 1440,
+  "vw": 1440,
+  "docH": 8503,
+  "over": [
+   "LABEL. -9697",
+   "INPUT. -9697"
+  ],
+  "broken": [],
+  "fonts": [
+   "Inter"
+  ],
+  "h1": 1,
+  "noAlt": 0,
+  "small": [],
+  "loadMs": 2128,
+  "errs": []
+ },
+ "anchorResultsInView": true,
+ "carouselMoved": true,
+ "formEmpty": {
+  "status": "Please fix the highlighted fields.",
+  "errs": [
+   "Please enter your name.",
+   "Please enter a valid email address.",
+   "Please enter a valid phone number."
+  ],
+  "focused": "f-name"
+ },
+ "formBad": [
+  "Please enter a valid email address.",
+  "Please enter a valid phone number."
+ ],
+ "formValid": "This prototype form isn’t connected to the firm’s intake system yet. Please call (803) 200-2000 or use the contact page.",
+ "skipFocus": " top=7181",
+ "focusOutline": "solid",
+ "tablet": {
+  "scrollW": 1024,
+  "vw": 1024,
+  "docH": 8459,
+  "over": [
+   "LABEL. -9702",
+   "INPUT. -9702"
+  ],
+  "broken": [],
+  "fonts": [
+   "Inter"
+  ],
+  "h1": 1,
+  "noAlt": 0,
+  "small": [],
+  "loadMs": 2423,
+  "errs": []
+ },
+ "mobile": {
+  "scrollW": 390,
+  "vw": 390,
+  "docH": 13101,
+  "over": [
+   "LABEL. -9714",
+   "INPUT. -9714"
+  ],
+  "broken": [],
+  "fonts": [
+   "Inter"
+  ],
+  "h1": 1,
+  "noAlt": 0,
+  "small": [],
+  "loadMs": 2166,
+  "errs": []
+ },
+ "menuOpen": {
+  "expanded": "true",
+  "navVisible": "block"
+ },
+ "menuClosedEsc": "false",
+ "menuLinkClosesAndScrolls": {
+  "expanded": "false",
+  "top": 187
+ }
+}
